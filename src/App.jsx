@@ -11,7 +11,7 @@ const App = () => {
     <div className='w-[80%]  bg-slate-600 mx-auto mt-10 p-5' >
       <form onSubmit={submitted} >
         <input className='' type="text"placeholder='username'name='username' />
-        <input className='bg-blue-800 ml-14 px-4 py-2' type="submit"/>
+        <input className='bg-blue-900 ml-14 px-4 py-2' type="submit"/>
       </form>
     </div>
   )
